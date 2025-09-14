@@ -1,0 +1,8 @@
+{
+  "name": "We Hear You - Online Doctor Consultations",
+  "description": "A modern telehealth platform connecting patients with doctors for online video consultations, chat, and appointment booking through a monthly subscription. Features an AI-powered symptom checker to guide users to the right specialist.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
